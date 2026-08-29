@@ -2,12 +2,21 @@
   "artist": "Quiet Damage",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "",
+    "title": "10 Years",
     "artist": "Quiet Damage",
-    "album": "",
-    "cover": "",
-    "audioSrc": "",
+    "album": "Nothing Breaks at Once",
+    "cover": "images/covers/quiet-damage-10-years-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/f68k9n4oga8rj6h0lp429/quiet-damage-10-years-MP3-mastered.mp3?rlkey=scfba1avvjcm1v1362bqqmdp7&raw=1",
     "videos": []
   },
-  "tracks": []
+  "tracks": [
+    {
+      "title": "10 Years",
+      "artist": "Quiet Damage",
+      "album": "Nothing Breaks at Once",
+      "cover": "images/covers/quiet-damage-10-years-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/f68k9n4oga8rj6h0lp429/quiet-damage-10-years-MP3-mastered.mp3?rlkey=scfba1avvjcm1v1362bqqmdp7&raw=1",
+      "videos": []
+    }
+  ]
 }
