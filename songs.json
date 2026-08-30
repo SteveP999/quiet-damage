@@ -19,5 +19,26 @@
     "explicit": false,
     "tags": [],
     "streaming": {}
+  },
+  {
+    "id": "quiet-damage-dead-weight",
+    "num": "02",
+    "title": "Dead Weight",
+    "artist": "Quiet Damage",
+    "album": "Nothing Breaks at Once",
+    "trackNumber": 2,
+    "albumOrder": 2,
+    "albumCover": "images/covers/quiet-damage-nothing-breaks-at-once-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/quiet-damage-dead-weight-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/gs48dgd5a7vlw4v9tn49m/quiet-damage-dead-weight-MP3-mastered.mp3?rlkey=q9s630px3b3inyde6p2t6b45e&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/gs48dgd5a7vlw4v9tn49m/quiet-damage-dead-weight-MP3-mastered.mp3?rlkey=q9s630px3b3inyde6p2t6b45e&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
