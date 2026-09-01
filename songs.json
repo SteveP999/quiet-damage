@@ -10,7 +10,7 @@
     "albumCover": "images/covers/quiet-damage-it-doesnt-break-all-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
-    "cover": "",
+    "cover": "images/covers/quiet-damage-dead-weight-cover.png",
     "audio": "",
     "audioSrc": "",
     "videos": [],
@@ -31,7 +31,7 @@
     "albumCover": "images/covers/quiet-damage-it-doesnt-break-all-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
-    "cover": "",
+    "cover": "images/covers/quiet-damage-nothing-personal-cover.png",
     "audio": "",
     "audioSrc": "",
     "videos": [],
@@ -64,6 +64,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
