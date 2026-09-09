@@ -64,11 +64,7 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
+    "streaming": {}
   },
   {
     "id": "quiet-damage-anxiety",
@@ -78,7 +74,7 @@
     "album": "It Doesn't Break All At Once",
     "trackNumber": 4,
     "albumOrder": 4,
-    "albumCover": "",
+    "albumCover": "images/covers/quiet-damage-it-doesnt-break-all-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/quiet-damage-anxiety-cover.png",
