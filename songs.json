@@ -55,13 +55,13 @@
     "albumOrder": 3,
     "albumCover": "images/covers/quiet-damage-nothing-breaks-at-once-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/quiet-damage-10-years-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/f68k9n4oga8rj6h0lp429/quiet-damage-10-years-MP3-mastered.mp3?rlkey=scfba1avvjcm1v1362bqqmdp7&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/f68k9n4oga8rj6h0lp429/quiet-damage-10-years-MP3-mastered.mp3?rlkey=scfba1avvjcm1v1362bqqmdp7&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {
@@ -69,5 +69,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "quiet-damage-anxiety",
+    "num": "04",
+    "title": "anxiety",
+    "artist": "Quiet Damage",
+    "album": "It Doesn't Break All At Once",
+    "trackNumber": 4,
+    "albumOrder": 4,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/quiet-damage-anxiety-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/koy660rgfv536qhuq8fxe/quiet-damage-anxiety-mp3.mp3?rlkey=3awn8ayjm0uwffl2rocpjy4ie&st=qm1rm9gm&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/koy660rgfv536qhuq8fxe/quiet-damage-anxiety-mp3.mp3?rlkey=3awn8ayjm0uwffl2rocpjy4ie&st=qm1rm9gm&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
