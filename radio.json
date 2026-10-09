@@ -2,11 +2,11 @@
   "artist": "Quiet Damage",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "anxiety",
+    "title": "9 to 5",
     "artist": "Quiet Damage",
     "album": "It Doesn't Break All At Once",
-    "cover": "images/covers/quiet-damage-anxiety-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/koy660rgfv536qhuq8fxe/quiet-damage-anxiety-mp3.mp3?rlkey=3awn8ayjm0uwffl2rocpjy4ie&st=j2pua36r&raw=1",
+    "cover": "images/covers/quiet-damage-9-to-5-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/as48qeytj1a2yp0kmnup6/quiet-damage-9-to-5-MP3-mastered.mp3?rlkey=59pyz4vumxbhema5jb147zrpf&raw=1",
     "videos": []
   },
   "tracks": [
@@ -14,7 +14,7 @@
       "title": "Dead Weight",
       "artist": "Quiet Damage",
       "album": "It Doesn't Break All At Once",
-      "cover": "",
+      "cover": "images/covers/quiet-damage-dead-weight-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/gs48dgd5a7vlw4v9tn49m/quiet-damage-dead-weight-MP3-mastered.mp3?rlkey=q9s630px3b3inyde6p2t6b45e&raw=1",
       "videos": []
     },
@@ -22,7 +22,7 @@
       "title": "Nothing Personal",
       "artist": "Quiet Damage",
       "album": "It Doesn't Break All At Once",
-      "cover": "",
+      "cover": "images/covers/quiet-damage-nothing-personal-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/ipjq6l57u5ntbyy86hp16/quiet-damage-nothing-personal-MP3-mastered.mp3?rlkey=vrqi2zamru1b1duzie1eb75dm&raw=1",
       "videos": []
     },

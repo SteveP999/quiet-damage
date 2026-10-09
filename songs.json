@@ -10,7 +10,7 @@
     "albumCover": "images/covers/quiet-damage-nothing-breaks-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
-    "cover": "",
+    "cover": "images/covers/quiet-damage-dead-weight-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/gs48dgd5a7vlw4v9tn49m/quiet-damage-dead-weight-MP3-mastered.mp3?rlkey=q9s630px3b3inyde6p2t6b45e&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/gs48dgd5a7vlw4v9tn49m/quiet-damage-dead-weight-MP3-mastered.mp3?rlkey=q9s630px3b3inyde6p2t6b45e&raw=1",
     "videos": [],
@@ -35,7 +35,7 @@
     "albumCover": "images/covers/quiet-damage-nothing-breaks-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
-    "cover": "",
+    "cover": "images/covers/quiet-damage-nothing-personal-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/ipjq6l57u5ntbyy86hp16/quiet-damage-nothing-personal-MP3-mastered.mp3?rlkey=vrqi2zamru1b1duzie1eb75dm&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/ipjq6l57u5ntbyy86hp16/quiet-damage-nothing-personal-MP3-mastered.mp3?rlkey=vrqi2zamru1b1duzie1eb75dm&raw=1",
     "videos": [],
@@ -107,7 +107,7 @@
     "album": "It Doesn't Break All At Once",
     "trackNumber": 5,
     "albumOrder": 5,
-    "albumCover": "",
+    "albumCover": "images/covers/quiet-damage-it-doesnt-break-all-at-once-ALBUM-cover.png",
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/quiet-damage-9-to-5-cover.png",
@@ -118,6 +118,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
